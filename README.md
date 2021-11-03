@@ -7,10 +7,10 @@ but perhaps most of all I love *music*. I’m a musician myself and<br>
 have released several albums online, two of which on Spotify and<br>
 Apple Music under the name ***Dingo Paisley***.
 
-- 🚀 Travelled across globe and a few years ago moved to *St. Petersburg*,<br>
-*Russia* where I've been learning the language, performing music, and<br>
-teaching English. I intend to move again in the next year or so,<br>
-perhaps back to the *US*.
+- 🚀 I've travelled across globe and a few years ago I moved to<br>
+*St. Petersburg*, *Russia* where I've been learning the language,<br>
+performing music, and teaching English. I intend to move again in the<br>
+next year or so, perhaps back to the *US*.
 
 - 🌵 I know many programming languages, but some of the ones I'm most<br>
 familiar with are *Java*, *Python*, *HTML*, *CSS*, and *JavaScript*. Right<br>
