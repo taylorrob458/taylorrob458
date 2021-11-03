@@ -27,13 +27,13 @@ spheres. So if you'd like to collaberate hit me up!
 - 🌳 If you wanna reach me you can do so here:<br>
   * Email: *taylorrobinson1@gmail.com*<br>
   * Telegram: *@DingoPaisley*
-  * LinkedIn: https://www.linkedin.com/in/richard-taylor-robinson/
+  * LinkedIn: *https://www.linkedin.com/in/richard-taylor-robinson/*
  
 ### See also:
 - Music links:
-  * Spotify: https://open.spotify.com/artist/6BCPTphCCfNEyodtVSsBHz
-  * Soundcloud: https://soundcloud.com/dingo-paisley
-  * Bandcamp: https://dingopaisley.bandcamp.com/music
+  * Spotify: *https://open.spotify.com/artist/6BCPTphCCfNEyodtVSsBHz*
+  * Soundcloud: *https://soundcloud.com/dingo-paisley*
+  * Bandcamp: *https://dingopaisley.bandcamp.com/music*
 
 <!---
 taylorrob458/taylorrob458 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
